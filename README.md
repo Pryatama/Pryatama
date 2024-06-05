@@ -5,6 +5,6 @@
 
 - [Alura](https://cursos.alura.com.br/course/repositorio-digital-compartilhar-seus-projetos/task/145213)
 
-![](https://tenor.com/pt-BR/view/mike-wazowski-gif-19238653)
+- ![]([https://tenor.com/pt-BR/view/mike-wazowski-gif-1923865](https://tenor.com/pt-BR/view/wazowski-mike-mike-sulivan-meme-monster-inc-gif-19634164))
 
 
